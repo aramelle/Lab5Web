@@ -11,3 +11,5 @@
 4. Membuat database.php
 ![database](https://user-images.githubusercontent.com/127073979/230782259-5544653d-9ba7-4f27-bd86-5c34097612b5.jpeg)
  
+5. Output
+![output](https://user-images.githubusercontent.com/127073979/230782361-dab0dbf0-24b5-4348-8788-9bc3a40f270e.jpeg)
